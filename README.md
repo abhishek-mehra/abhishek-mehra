@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishek-mehra
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Time Series(https://www.kaggle.com/ryanholbrook/linear-regression-with-time-series)
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me ...Twitter-https://twitter.com/Abhishek__meh/
 

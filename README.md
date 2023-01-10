@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @abhishek-mehra
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning
+- 🌱 I’m currently doing  PyTorch for Deep Learning in 2023: Zero to Mastery
+
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me ...Twitter-https://twitter.com/Abhishek__meh/
 

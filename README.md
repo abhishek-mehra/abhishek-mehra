@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me ...Twitter-https://twitter.com/Abhishek__meh/
 
-I like to strenght train,plat football. I enjoy reading. Currently reading Influence by Robert Ciadlini
+
 
 <!---
 abhishek-mehra/abhishek-mehra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

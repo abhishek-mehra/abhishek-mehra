@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhishek-mehra.
-- Graduate student at NEU
+
 
 
 <!---
